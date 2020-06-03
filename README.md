@@ -7,9 +7,9 @@ We have tree models (3, 5, 7 layers for each)
 Succcess cases images
 
 <img width="554" alt="성공" src="https://user-images.githubusercontent.com/66360674/83649257-f25b6a00-a5f1-11ea-90f9-a5fb13e8637e.PNG">
-/
-/
-/
+
+
+
 1. model1 (3 layers)
 
 Model choose
