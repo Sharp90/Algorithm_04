@@ -54,7 +54,7 @@ Failure cases images
 
 
 
-2. model3 (7 layers)
+3. model3 (7 layers)
 
 Model choose
 
