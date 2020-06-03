@@ -9,6 +9,8 @@ Succcess cases images
 <img width="554" alt="성공" src="https://user-images.githubusercontent.com/66360674/83649257-f25b6a00-a5f1-11ea-90f9-a5fb13e8637e.PNG">
 
 
+
+
 1. model1 (3 layers)
 
 Model choose
@@ -26,3 +28,25 @@ Test Accuracy
 Failure cases images
 
 <img width="752" alt="4" src="https://user-images.githubusercontent.com/66360674/83649274-f7201e00-a5f1-11ea-9d88-d53ed7204217.PNG">
+
+
+
+
+
+2. model2 (5 layers)
+
+Model choose
+
+<img width="177" alt="1" src="https://user-images.githubusercontent.com/66360674/83649297-fdae9580-a5f1-11ea-8eab-0f053fdbecbb.PNG">
+
+Training with Training loss
+
+<img width="568" alt="2" src="https://user-images.githubusercontent.com/66360674/83649298-fedfc280-a5f1-11ea-94b0-97f140975fad.PNG">
+
+Test Accuracy
+
+<img width="456" alt="3" src="https://user-images.githubusercontent.com/66360674/83649273-f7201e00-a5f1-11ea-9f4e-7b4596adc1b6.PNG">
+
+Failure cases images
+
+<img width="750" alt="4" src="https://user-images.githubusercontent.com/66360674/83649274-f7201e00-a5f1-11ea-9d88-d53ed7204217.PNG">
