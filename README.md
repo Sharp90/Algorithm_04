@@ -45,8 +45,30 @@ Training with Training loss
 
 Test Accuracy
 
-<img width="456" alt="3" src="https://user-images.githubusercontent.com/66360674/83649273-f7201e00-a5f1-11ea-9f4e-7b4596adc1b6.PNG">
+<img width="456" alt="3" src="https://user-images.githubusercontent.com/66360674/83649300-fedfc280-a5f1-11ea-9bab-cfd1588f8602.PNG">
 
 Failure cases images
 
-<img width="750" alt="4" src="https://user-images.githubusercontent.com/66360674/83649274-f7201e00-a5f1-11ea-9d88-d53ed7204217.PNG">
+<img width="750" alt="4" src="https://user-images.githubusercontent.com/66360674/83649302-ff785900-a5f1-11ea-8513-eddb42681cc5.PNG">
+
+
+
+
+
+2. model2 (5 layers)
+
+Model choose
+
+<img width="184" alt="1" src="https://user-images.githubusercontent.com/66360674/83649317-030be000-a5f2-11ea-8593-f858e98f7b74.PNG">
+
+Training with Training loss
+
+<img width="682" alt="2" src="https://user-images.githubusercontent.com/66360674/83649320-030be000-a5f2-11ea-93a9-e9cf2d062461.PNG">
+
+Test Accuracy
+
+<img width="500" alt="3" src="https://user-images.githubusercontent.com/66360674/83649322-03a47680-a5f2-11ea-8278-10fb86b644e8.PNG">
+
+Failure cases images
+
+<img width="755" alt="4" src="https://user-images.githubusercontent.com/66360674/83649326-03a47680-a5f2-11ea-9182-84391dd924f9.PNG">
